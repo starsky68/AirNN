@@ -1,0 +1,6 @@
+pyyaml
+statsmodels
+tables
+future
+tensorflow-gpu 2.2.0
+torch 1.8.1
